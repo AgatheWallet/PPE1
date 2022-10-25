@@ -1,0 +1,111 @@
+en 12 2016, le classement des lieux est :
+     26 France
+     19 Burundi
+     18 États-Unis
+     14 Raqqa
+     13 Chine
+     11 Syrie
+     11 Montréal
+     11 Alep
+     10 Russie
+      9 Turquie
+      6 Paris
+      6 Palmyre
+      5 Canada
+      5 Berlin
+      4 Italie
+      4 Bujumbura
+      4 Belgique
+      3 RDC
+      3 Istanbul
+      3 Floride
+      3 désert syrien
+      3 Ankara
+      3 Allemagne
+      2 Xinjiang
+      2 Ville-Marie
+      2 Vendée
+      2 Uruguay
+      2 Suisse
+      2 Strasbourg
+      2 Séoul
+      2 Rwanda
+      2 Québec
+      2 Pakistan
+      2 Mer Noire
+      2 Los Angeles
+      2 Kayseri
+      2 Indonésie
+      2 Inde
+      2 Europe du Nord
+      2 Euphrate
+      1 Zurich
+      1 Zabdiyé
+      1 Xuanwei
+      1 Villeurbanne
+      1 Vermont
+      1 Toronto
+      1 Tiyas
+      1 Tanzanie
+      1 Sotchi
+      1 Somalie
+      1 Siduhe
+      1 Shuicheng
+      1 Sénégal
+      1 Saskatchewan
+      1 Sainte-Marie
+      1 Sainte-Flaive-des-Loups
+      1 Reuleuet
+      1 République démocratique du Congo
+      1 Qitaihe
+      1 Qal'at Ja'bar
+      1 Prague
+      1 Pékin
+      1 Pays-Bas
+      1 Nord
+      1 Nice
+      1 New York
+      1 Moscou
+      1 Montpellier
+      1 Mongolie-Intérieure
+      1 Meureudu
+      1 Mar-a-Lago
+      1 Manitoba
+      1 Macka
+      1 Lyon
+      1 Londres
+      1 Liupanshui
+      1 Les Sables-d'Olonne
+      1 La Roche-sur-Yon
+      1 Lahore
+      1 Kurdistan
+      1 Khyber Pakhtunkhwa
+      1 Kefraya
+      1 Islamabad
+      1 Irlande
+      1 Iran
+      1 Irak
+      1 Heilongjiang
+      1 Havelian
+      1 Hama
+      1 Goyet
+      1 Foua
+      1 Évry
+      1 États-Unis d'Amérique
+      1 Espagne
+      1 Deir ez-Zor
+      1 Damas
+      1 d’Alep
+      1 Dakar
+      1 Corée du Sud
+      1 Chitral
+      1 Chili
+      1 Chifeng
+      1 Cham
+      1 Calgary
+      1 Besiktas
+      1 Beipanjiang
+      1 Beipan
+      1 Baloutchistan
+      1 Alberta
+      1 Aceh

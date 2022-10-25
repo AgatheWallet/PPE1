@@ -1,0 +1,2222 @@
+    341 	gilets jaunes
+    156 	Paris
+    131 	france
+     76 	Champs-Élysées
+     34 	2019
+     32 	Emmanuel Macron
+     31 	Gjs
+     30 	Wikipédia
+     30 	2018
+     29 	Wikimedia
+     28 	A9
+     24 	Noël
+     24 	A7
+     22 	samedi 17 novembre 2018
+     22 	États-Unis
+     22 	Eric Drouet
+     22 	arc de triomphe
+     22 	A8
+     21 	A62
+     21 	A50
+     20 	A61
+     20 	A20
+     19 	Strasbourg
+     19 	Russie
+     19 	place de la République
+     19 	Burundi
+     18 	Saint-Lazare
+     18 	A52
+     18 	A51
+     18 	A11
+     17 	Manuel Valls
+     17 	Benjamin Cauchy
+     17 	A63
+     17 	A10
+     16 	A89
+     16 	A64
+     16 	18h00
+     15 	Jacline Mouraud
+     15 	Élysée
+     15 	Daech
+     15 	Christophe Chalençon
+     15 	Bandol
+     15 	A87
+     15 	A83
+     15 	A72
+     15 	A520
+     14 	Raqqa
+     14 	La Ciotat
+     14 	intérieur
+     14 	A71
+     13 	turquie
+     13 	Étoile
+     13 	Chine
+     13 	A837
+     13 	A81
+     12 	Toulouse
+     12 	Opéra
+     12 	Marseille
+     12 	Concorde
+     12 	Belgique
+     12 	A57
+     12 	20h00
+     12 	10h00
+     11 	Syrie
+     11 	Priscillia Ludosky
+     11 	Pont de l’Étoile
+     11 	Montréal
+     11 	Matignon
+     11 	Édouard Philippe
+     11 	Edouard Philippe
+     11 	Alep
+     11 	19h00
+     11 	14h30
+     11 	14h00
+     11 	12h30
+     11 	12h00
+     10 	Yvelines
+     10 	ministère de l'Intérieur
+     10 	gare Saint-Lazare
+     10 	Christophe Castaner
+     10 	Bordeaux
+     10 	Assemblée nationale
+     10 	A16
+     10 	8h00
+     10 	2015
+      9 	Nantes
+      9 	Maxime Nicolle
+      9 	Mans
+      9 	Macron
+      9 	CGT
+      9 	Canada
+      9 	9h00
+      9 	16h00
+      8 	SNCF
+      8 	Rhône
+      8 	place de la Concorde
+      8 	Parti socialiste
+      8 	Opéra Garnier
+      8 	gilets jaunes libres
+      8 	François Hollande
+      8 	FDS
+      8 	Éric Drouet
+      8 	Bretagne
+      8 	avenue des Champs-Élysées
+      8 	A4
+      8 	A1
+      8 	2013
+      8 	18h30
+      8 	15h00
+      7 	Vignon
+      7 	Sarthe
+      7 	Saône-et-Loire
+      7 	Pas-de-Calais
+      7 	ONU
+      7 	Nîmes
+      7 	Montmartre
+      7 	Lorient
+      7 	Île-de-France
+      7 	Gard
+      7 	Fox
+      7 	Donald Trump
+      7 	Disney
+      7 	Brest
+      7 	Bouches-du-Rhône
+      7 	avenue de Friedland
+      7 	Ankara
+      7 	A344
+      7 	A29
+      7 	9h50
+      7 	7h00
+      7 	1er décembre
+      7 	19h30
+      7 	17h10
+      7 	17h00
+      7 	13h00
+      7 	11h30
+      7 	10h30
+      6 	Willy Nyamitwe
+      6 	Versailles
+      6 	Vaucluse
+      6 	Rivoli
+      6 	Publicis
+      6 	porte Maillot
+      6 	Pierre Nkurunziza
+      6 	Palmyre
+      6 	Nice
+      6 	Nations unies
+      6 	mouvement des Gilets jaunes
+      6 	Lyon
+      6 	Lot-et-Garonne
+      6 	LCI
+      6 	Laetitia Dewalle
+      6 	Italie
+      6 	ISU
+      6 	Istanbul
+      6 	Haute-Normandie
+      6 	Fly Rider
+      6 	facebook
+      6 	Allemagne
+      6 	A26
+      6 	A13
+      6 	30 décembre 2016
+      6 	22h30
+      6 	21h00
+      6 	17h30
+      6 	12h
+      6 	11h00
+      5 	Var
+      5 	Uber
+      5 	Tours
+      5 	Sprint
+      5 	Projet Montréal
+      5 	préfecture de police de Paris
+      5 	Nord
+      5 	Marceau
+      5 	Madeleine
+      5 	LaREM
+      5 	Jérôme Cahuzac
+      5 	Hôtel de ville
+      5 	Hongrie
+      5 	Haute-Loire
+      5 	Haussmann
+      5 	Gj
+      5 	Gironde
+      5 	Gérard Filoche
+      5 	François de Rugy
+      5 	Finistère
+      5 	Eure
+      5 	Dions
+      5 	comité Adama
+      5 	calvados
+      5 	Calais
+      5 	Caen
+      5 	Bernard Cazeneuve
+      5 	Berlin
+      5 	avenue Marceau
+      5 	avenue de la Grande armée
+      5 	Auchan
+      5 	Aube
+      5 	armée syrienne
+      5 	Alès
+      5 	Adama
+      5 	A6
+      5 	A55
+      5 	9h30
+      5 	9 décembre 2018
+      5 	4 décembre 2016
+      5 	2 décembre 2018
+      5 	23h00
+      5 	21h
+      5 	2000
+      5 	19h10
+      5 	17 décembre 2016
+      5 	15 décembre 2018
+      5 	14h20
+      5 	12h10
+      5 	11h
+      4 	Vinci
+      4 	Vendée
+      4 	Valence d'Agen
+      4 	Val d'Oise
+      4 	Somme
+      4 	Sénat
+      4 	Seine-et-Marne
+      4 	samedi 24 novembre
+      4 	samedi 1er décembre
+      4 	samedi 18 novembre 2018
+      4 	samedi 17 novembre
+      4 	Saint-Augustin
+      4 	Richelieu Drouot
+      4 	Puy-en-Velay
+      4 	Parlement
+      4 	Park Geun-hye
+      4 	Odoxa
+      4 	Narbonne
+      4 	Moselle
+      4 	Morbihan
+      4 	Mâcon
+      4 	Loire-Atlantique
+      4 	Lille
+      4 	LFI
+      4 	La République en marche
+      4 	JDD
+      4 	Fos-sur-Mer
+      4 	Creuse
+      4 	Courcelles
+      4 	Champs
+      4 	CFDT
+      4 	Castaner
+      4 	Carrie Fisher
+      4 	Bujumbura
+      4 	Bruxelles
+      4 	Bresse
+      4 	BFM
+      4 	Benjamin Griveaux
+      4 	Bastille
+      4 	avenue Hoche
+      4 	Aimargues
+      4 	A709
+      4 	A43
+      4 	7h20
+      4 	29 décembre 2016
+      4 	2009
+      4 	1er décembre 2018
+      4 	19 décembre 2016
+      4 	17h50
+      4 	17h25
+      4 	17h20
+      4 	17 décembre
+      4 	16h40
+      4 	16h30
+      4 	15h30
+      4 	15h20
+      4 	14h45
+      4 	13h30
+      4 	12h45
+      4 	12h40
+      4 	12h15
+      4 	11h15
+      4 	10h50
+      4 	10h10
+      3 	Villefranche-sur-Saône
+      3 	Vienne
+      3 	Valls
+      3 	Valérie Plante
+      3 	Val-de-Marne
+      3 	Uruguay
+      3 	UE
+      3 	Twitter
+      3 	Tupolev
+      3 	Seine-Maritime
+      3 	Saint-Nazaire
+      3 	Saint-Malo
+      3 	Saint-Étienne
+      3 	Saint-Césaire
+      3 	Saint-Avold
+      3 	Rungis
+      3 	rue de Rivoli
+      3 	Rouen
+      3 	Richard Ferrand
+      3 	République
+      3 	Renzi
+      3 	Rennes
+      3 	RDC
+      3 	Qamar Javed Bajwa
+      3 	Port-la-Nouvelle
+      3 	Pologne
+      3 	Pôle emploi
+      3 	place de République
+      3 	place de la Bastille
+      3 	Parti démocrate
+      3 	Ousmane Sow
+      3 	OpinionWay
+      3 	OneWeb
+      3 	novembre 2016
+      3 	ministère de l’Intérieur
+      3 	Millas
+      3 	mercredi 28 décembre
+      3 	LREM
+      3 	LR
+      3 	Limoges
+      3 	Jean-Luc Mélenchon
+      3 	Jean-Christophe Cambadélis
+      3 	Japon
+      3 	Ifop
+      3 	Haut-Rhin
+      3 	Haute-Savoie
+      3 	Grenoble
+      3 	gouvernement civil
+      3 	George V
+      3 	Galileo
+      3 	France insoumise
+      3 	Forces démocratiques syriennes
+      3 	Floride
+      3 	Europe1
+      3 	Espagne
+      3 	Eric Zemmour
+      3 	Doubs
+      3 	désert syrien
+      3 	Dakar
+      3 	Côtes-d'Armor
+      3 	Conseil de sécurité des Nations unies
+      3 	Chekatt
+      3 	Champs-Elysées
+      3 	Cédric Guémy
+      3 	Carcassonne
+      3 	boulevard Haussmann
+      3 	BFMTV
+      3 	Béziers
+      3 	Besancenot
+      3 	Benoît Hamon
+      3 	Benjamin Mkapa
+      3 	Ban Ki-moon
+      3 	Auvergne-Rhône-Alpes
+      3 	Aude
+      3 	Arsène Houssaye
+      3 	Arnaud Montebourg
+      3 	Ardèche
+      3 	Angoulême
+      3 	Agen
+      3 	A430
+      3 	A41N
+      3 	8h50
+      3 	8h45
+      3 	8h15
+      3 	8 décembre
+      3 	7h40
+      3 	6h00
+      3 	6
+      3 	5 décembre 2016
+      3 	31 décembre 2016
+      3 	2 décembre
+      3 	29 décembre
+      3 	26 novembre
+      3 	25 décembre
+      3 	24 décembre 2018
+      3 	23h30
+      3 	23 décembre 2018
+      3 	21st Century Fox
+      3 	21h30
+      3 	21 décembre 2016
+      3 	20h45
+      3 	20h30
+      3 	20 décembre
+      3 	2017
+      3 	2016
+      3 	2014
+      3 	2012
+      3 	2011
+      3 	19h20
+      3 	19 décembre
+      3 	1980
+      3 	18h50
+      3 	18h12
+      3 	1789
+      3 	16h45
+      3 	16h05
+      3 	15h40
+      3 	15h25
+      3 	15h15
+      3 	15h10
+      3 	15h05
+      3 	15 décembre
+      3 	14h50
+      3 	14h15
+      3 	14h10
+      3 	13 heures
+      3 	13h50
+      3 	13 décembre 2018
+      3 	12 décembre
+      3 	11h45
+      3 	11 décembre
+      3 	10h45
+      3 	10h25
+      3 	10h
+      3 
+      2 	Yonne
+      2 	Xinjiang
+      2 	Washington
+      2 	Vladimir Poutine
+      2 	Vinci Autoroutes
+      2 	Vincent Peillon
+      2 	Villeneuve-sur-Lot
+      2 	Ville-Marie
+      2 	VIIIe arrondissement
+      2 	Victor-Hugo
+      2 	vendredi 7 décembre 2018
+      2 	vendredi 28 décembre 2018
+      2 	vendredi 21 décembre 2018
+      2 	vendredi 14 décembre 2018
+      2 	vendredi 14 décembre
+      2 	Vanessa James
+      2 	Valence d’Agen
+      2 	Valence
+      2 	Val-d’Oise
+      2 	Union internationale de patinage
+      2 	Union Gilets Jaunes
+      2 	Union européenne
+      2 	Ukraine
+      2 	Trump
+      2 	Trocadéro
+      2 	Transition écologique
+      2 	Toulon
+      2 	Total
+      2 	Tolbiac
+      2 	TGV
+      2 	Tarbes
+      2 	Sylvia Pinel
+      2 	Suisse
+      2 	Starbucks coffee
+      2 	Starbucks
+      2 	Serbie
+      2 	Séoul
+      2 	Sénégal
+      2 	Savoie
+      2 	samedi 8 décembre 2018
+      2 	samedi 8 décembre
+      2 	samedi 22 décembre 2018
+      2 	samedi 1er décembre 2018
+      2 	samedi 15 décembre 2018
+      2 	Saint-Vaury
+      2 	Saint-Philippe
+      2 	Saint-Martin-de-Valgalgues
+      2 	Saint-Laurent-sur-Manoire
+      2 	Saint-Etienne-du-Rouvray
+      2 	Rwanda
+      2 	rue Kléber
+      2 	rue de Presbourg
+      2 	rue de la Pépinière
+      2 	rue de Caumartin
+      2 	RTL
+      2 	Romilly-sur-Seine
+      2 	Rome
+      2 	RN 106
+      2 	RMC
+      2 	réveillon de la Saint-Sylvestre
+      2 	République tchèque
+      2 	Renaud Muselier
+      2 	Recep Tayyip Erdogan
+      2 	Rassemblement national
+      2 	Raheel Sharif
+      2 	Quimper
+      2 	Québec
+      2 	Pyrénées-Orientales
+      2 	Pyrénées-Atlantiques
+      2 	PS
+      2 	Provence-Alpes-Côte d'Azur
+      2 	Printemps Haussmann
+      2 	Printemps
+      2 	Presbourg
+      2 	Pouzin
+      2 	Portugal
+      2 	Pont-Saint-Esprit
+      2 	place Kléber
+      2 	place de la Madeleine
+      2 	PJ
+      2 	Pigalle
+      2 	Pierre Barouh
+      2 	PIA
+      2 	Perpignan
+      2 	PCF
+      2 	Patrick de Perglas
+      2 	Patinage Canada
+      2 	Parisien
+      2 	Pakistan
+      2 	Orange
+      2 	Oise
+      2 	NPA
+      2 	Normandie
+      2 	Nogent-le-Rotrou
+      2 	Nicolas Dupont-Aignan
+      2 	Nicolas Domenach
+      2 	Narbonne-sud
+      2 	Mouvement 5 étoiles
+      2 	Morgan Ciprès
+      2 	Montchanin
+      2 	Mondeville
+      2 	Mohamed Laqhila
+      2 	Miromesnil
+      2 	Michel Déon
+      2 	Michel-Ange Flori
+      2 	Mer Noire
+      2 	mercredi 5 décembre 2018
+      2 	mercredi 26 décembre 2018
+      2 	mercredi 19 décembre
+      2 	mercredi 12 décembre 2018
+      2 	Meaux
+      2 	Matteo Renzi
+      2 	Mathilde Panot
+      2 	mars 2016
+      2 	Marrakech
+      2 	Marne
+      2 	mardi 4 décembre 2018
+      2 	mardi 25 décembre 2018
+      2 	mardi 11 décembre 2018
+      2 	marché de Noël de Berlin
+      2 	Lux
+      2 	lundi 3 décembre 2018
+      2 	lundi 31 décembre 2018
+      2 	lundi 24 décembre
+      2 	lundi 17 décembre 2018
+      2 	lundi 10 décembre 2018
+      2 	Lozère
+      2 	Los Angeles
+      2 	Longeville-lès-Saint-Avold
+      2 	Loir-et-Cher
+      2 	Loiret
+      2 	Lisieux
+      2 	Le Parisien
+      2 	Leia Organa
+      2 	Leclerc
+      2 	Lavera
+      2 	Laurent Nuñez
+      2 	La Roche-sur-Yon
+      2 	La Nouvelle Republique
+      2 	Lannion
+      2 	la Grande Récré
+      2 	La France insoumise
+      2 	La France en colère
+      2 	la Barque
+      2 	Kléber
+      2 	Kinder Surprise
+      2 	Kayseri
+      2 	Justice
+      2 	Jura
+      2 	jeudi 6 décembre 2018
+      2 	jeudi 27 décembre 2018
+      2 	jeudi 20 décembre 2018
+      2 	jeudi 13 décembre 2018
+      2 	Jean-Luc Bennahmias
+      2 	Jean-François Barnaba
+      2 	Jean-Christophe Victor
+      2 	janvier 2019
+      2 	Jacques-Monod
+      2 	Jacline Gouraud
+      2 	Intermarché
+      2 	Insee
+      2 	Indre-et-Loire
+      2 	Indonésie
+      2 	Inde
+      2 	Île de la Cité
+      2 	Ile-de-France
+      2 	Ifs
+      2 	Hulu
+      2 	Hoche
+      2 	Hérault
+      2 	Hautes-Pyrénées
+      2 	Hautes-Alpes
+      2 	Haute-Garonne
+      2 	Grands Boulevards
+      2 	Grand Quevilly
+      2 	Grand Prix ISU
+      2 	Grand Palais
+      2 	Grande-Bretagne
+      2 	Grande Armée
+      2 	Gotlib
+      2 	Glisy
+      2 	Gilet jaune
+      2 	Gérald Darmanin
+      2 	George Michael
+      2 	gare du Nord
+      2 	Galeries Lafayette
+      2 	France-inter
+      2 	Fort-Nieulay
+      2 	Fiducial
+      2 	FIDH
+      2 	Feyzin
+      2 	Ferdi Kübler
+      2 	Europe du Nord
+      2 	Europe 1
+      2 	Euphrate
+      2 	États-Unis d'Amérique
+      2 	État islamique
+      2 	Essonne
+      2 	Eric Coquerel
+      2 	Elysée
+      2 	Elabe
+      2 	Éducation nationale
+      2 	Économie
+      2 	DSPAP
+      2 	Dracy-Saint-Loup
+      2 	Donges
+      2 	Dom Sportova
+      2 	Direction de la sécurité et de proximité de l’agglomération
+      2 	dimanche 9 décembre 2018
+      2 	dimanche 30 décembre 2018
+      2 	dimanche 2 décembre 2018
+      2 	dimanche 23 décembre 2018
+      2 	dimanche 16 décembre 2018
+      2 	Deux-Sèvres
+      2 	Debbie Reynolds
+      2 	David Tan
+      2 	David Assouline
+      2 	Créteil
+      2 	Conseil national des centres commerciaux
+      2 	Comité international de la Croix-Rouge
+      2 	Coderre
+      2 	Cnared
+      2 	Christophe Guilluy
+      2 	Christian Casseyas
+      2 	Charleville-Mézières
+      2 	Charente-Maritime
+      2 	Charente
+      2 	championnats d’Ukraine de patinage artistique 2018-2019
+      2 	championnats de France Élites de patinage
+      2 	Chalon-sur-Saône
+      2 	Cédric Delaire
+      2 	Carrefour
+      2 	Canard enchaîné
+      2 	Bva
+      2 	Budapest
+      2 	Bruno Le Maire
+      2 	Brégançon
+      2 	Bourgogne
+      2 	boulevard Sébastopol
+      2 	Bollène
+      2 	Blainville-sur-Orne
+      2 	BFM TV
+      2 	Bessan
+      2 	Besançon
+      2 	Bercy
+      2 	Bellegarde
+      2 	Beaucaire
+      2 	Bayonne
+      2 	Barack Obama
+      2 	Banque de France
+      2 	Avignon
+      2 	avenue du Président-Wilson
+      2 	avenue de la République
+      2 	Aussonne
+      2 	Assemblée
+      2 	Arras
+      2 	armée pakistanaise
+      2 	Arles
+      2 	Aristide Bergès de Seyssinet
+      2 	Ariège
+      2 	Argentine
+      2 	Arcole
+      2 	AP-HP
+      2 	Amazon.com
+      2 	Amazon
+      2 	Alsace
+      2 	Alexis Corbiere
+      2 	Aisne
+      2 	Ain
+      2 	A66
+      2 	A645
+      2 	A54
+      2 	A27
+      2 	A2
+      2 	9h40
+      2 	9h
+      2 	9 décembre 2016
+      2 	8h40
+      2 	8h35
+      2 	8h30
+      2 	8h20
+      2 	8e arrondissement
+      2 	8 décembre 2018
+      2 	8 décembre 2016
+      2 	7h30
+      2 	7h15
+      2 	7e
+      2 	7 décembre 2016
+      2 	6h
+      2 	5h30
+      2 	4 heures UTC+1
+      2 	4 décembre
+      2 	3 décembre 2018
+      2 	31 décembre
+      2 	2 décembre 2016
+      2 	29 novembre
+      2 	28 décembre
+      2 	27 novembre
+      2 	27 décembre
+      2 	26 décembre 2016
+      2 	26 décembre
+      2 	25 décembre 2018
+      2 	25 décembre 2016
+      2 	23h10
+      2 	23 décembre
+      2 	22h40
+      2 	22h25
+      2 	22h00
+      2 	22 décembre 2018
+      2 	22 décembre 2016
+      2 	21st
+      2 	21h15
+      2 	21 décembre 2018
+      2 	20th Century Fox
+      2 	20h20
+      2 	20h05
+      2 	20 décembre 2018
+      2 	20 décembre 2016
+      2 	2008
+      2 	2007
+      2 	1h00 du matin
+      2 	1er arrondissement
+      2 	19h40
+      2 	19h15
+      2 	1986
+      2 	1984
+      2 	1978
+      2 	1977
+      2 	19
+      2 	18h45
+      2 	18h40
+      2 	17 novembre
+      2 	17h15
+      2 	17h05
+      2 	16h55
+      2 	16h50
+      2 	16h35
+      2 	16h25
+      2 	16h20
+      2 	16h15
+      2 	16h10
+      2 	16e
+      2 	15h50
+      2 	15h45
+      2 	15h
+      2 	14h55
+      2 	14h05
+      2 	14h04
+      2 	14
+      2 	13h40
+      2 	13h20
+      2 	13h10
+      2 	13h05
+      2 	13h
+      2 	12h55
+      2 	12h35
+      2 	12h20
+      2 	12h05
+      2 	11h55
+      2 	11h40
+      2 	11h20
+      2 	11h18
+      2 	11h06
+      2 	10h40
+      2 	10h35
+      2 	10h24
+      2 	10h20
+      2 	10h15
+      2 	10 décembre
+      1 	Zurich
+      1 	Zoe Jones
+      1 	Zénith
+      1 	Zagreb
+      1 	Zadig&Voltaire
+      1 	Zachary Donohue
+      1 	Zabdiyé
+      1 	Yvan Benedetti
+      1 	YPJ
+      1 	YPG
+      1 	YouGov
+      1 	Yann Le Lann
+      1 	Yann Galut
+      1 	Yann Foreix
+      1 	XVIe
+      1 	Xuanwei
+      1 	Xavier Tarabeux
+      1 	Xavier Niel
+      1 	William Salice
+      1 	Wikileak
+      1 	Wasselonne
+      1 	Walt Disney Company
+      1 	VRBG
+      1 	Voltuan Redde
+      1 	voltigeurs
+      1 	Volodymyr Byelikov
+      1 	Vodafone Arena
+      1 	Vladimir Morozov
+      1 	Vitali Tchourkine
+      1 	Virsac
+      1 	Vintimille
+      1 	Villeurbanne
+      1 	Villefranche
+      1 	Ville-Close à Concarneau
+      1 	Vieux-Port de Marseille
+      1 	Victoria Sinitsina
+      1 	Victor Hugo
+      1 	Vianne
+      1 	Vezac
+      1 	Vestric
+      1 	Vesoul
+      1 	Versailles-Chantiers
+      1 	Véronique de Viguerie
+      1 	Vernon
+      1 	Vernet-les-Bains
+      1 	Vermont
+      1 	Vaujany
+      1 	Valentina Matos
+      1 	Valence-Nord
+      1 	Val-d'Oise
+      1 	Val-de-Fontenay
+      1 	Vaimalama Chaves
+      1 	Uzès
+      1 	Ussel
+      1 	Us Golf
+      1 	Urssaf
+      1 	Unsa
+      1 	université Sorbonne Nouvelle
+      1 	Université Paris Dauphine
+      1 	université de Tolbiac
+      1 	Union française des industries pétrolières
+      1 	Union africaine
+      1 	Unesco
+      1 	Ufip
+      1 	Tupolev Tu-154
+      1 	Tunisair
+      1 	Tuileries
+      1 	Trocadero
+      1 	Trinité-d’Estienne-d’Orves
+      1 	tribunal de Poitiers
+      1 	tribunal correctionnel de Paris
+      1 	trésorerie de Saint-Andiol
+      1 	Travail
+      1 	Trache
+      1 	Tourville-la-Rivière
+      1 	Tourlaville
+      1 	Tour de France
+      1 	Touquet
+      1 	Toronto
+      1 	Torcé
+      1 	Tony Robinson
+      1 	Tokoro
+      1 	Tiyas
+      1 	Tim Koleto
+      1 	Time Warner
+      1 	Thuin
+      1 	Thierry Morvan
+      1 	Thierry Lhermitte
+      1 	Thibaud A.
+      1 	Thiais
+      1 	Thal-Druliguen
+      1 	TGI de Paris
+      1 	TF1
+      1 	Tchad
+      1 	TCDD
+      1 	Tata Sky
+      1 	Tarn-et-Garonne
+      1 	Tarnac
+      1 	Tarascon
+      1 	Tanzanie
+      1 	Talencia
+      1 	TAK
+      1 	Tahiti
+      1 	Syndicat National des Journalistes
+      1 	Syndicat des Indépendants
+      1 	Surmoulin
+      1 	SUD-Rail
+      1 	SUD Poste 92
+      1 	Stuttgart
+      1 	Stephen Gogolev
+      1 	Stéphane Bern
+      1 	Stef Transport
+      1 	Star India
+      1 	Soyaux
+      1 	Soubirous
+      1 	Sotchi
+      1 	Sorgues
+      1 	Sorbonne
+      1 	Sophia Aram
+      1 	Somalie
+      1 	Somain
+      1 	Solidaires
+      1 	SoftBank
+      1 	Sofiia Nesterova
+      1 	Sofia Shevchenko
+      1 	Sofia Evdokimova
+      1 	Société Générale
+      1 	SNJ
+      1 	Snes-FSU
+      1 	Slovaquie
+      1 	Sky plc
+      1 	Sindumuja
+      1 	Simone-de-Beauvoir
+      1 	Silivrikapı
+      1 	Sigean
+      1 	Siduhe
+      1 	Shuicheng
+      1 	Shōma Uno
+      1 	Sheffield
+      1 	Shari Koch
+      1 	Sèze
+      1 	Sète
+      1 	services de renseignement
+      1 	Sergio Mattarella
+      1 	septembre 2015
+      1 	Sephora
+      1 	Senlis
+      1 	Senenews
+      1 	Seine-Saint-Denis
+      1 	Sébastien Nadot
+      1 	Sébastien Lecornu
+      1 	Scionzier
+      1 	Sciences Po Bordeaux
+      1 	Sciences-Po Alumni
+      1 	Sciences-Po
+      1 	Sciences Po
+      1 	Saumur
+      1 	Saulce
+      1 	Satory
+      1 	Saskatchewan
+      1 	Sarlat
+      1 	Saransk
+      1 	Saône-et-Loir
+      1 	Sanef
+      1 	Sanary-sur-Mer
+      1 	Sana
+      1 	samedi 17 décembre 2016
+      1 	samedi 17 décembre
+      1 	samedi 15 décembre
+      1 	samedi 15
+      1 	salle Droulez
+      1 	Saint-Vulbas
+      1 	Saint-Sauveur
+      1 	Saint-Remy
+      1 	Saint-Pierre-des-Corps
+      1 	Saint-Paul-lès-Dax
+      1 	Saint-Martin-de-Valgualgues
+      1 	Saint-Martin-de-Crau
+      1 	Saint-Martin de Crau
+      1 	Saint-Martin
+      1 	Saint Lazare
+      1 	Saint-Jean-de-Thouars
+      1 	Saint-Jean-de-Braye
+      1 	Saint-Hippolyte-du-Fort
+      1 	Saint-Hilaire-de-Brethmas
+      1 	Saint-Féliu-d’Avall
+      1 	Saint-Exupéry
+      1 	Saint-Etienne
+      1 	Sainte-Savine
+      1 	Sainte-Marie
+      1 	Sainte-Julie
+      1 	Sainte-Flaive-des-Loups
+      1 	Saint-Dizier
+      1 	Saint-Denis
+      1 	Saint-Clément
+      1 	Saint-Christol-lez-Alès
+      1 	Saint-Cézaire
+      1 	Saint-Brieuc
+      1 	Saint-Béat
+      1 	Saint-Andiol
+      1 	Ryuichi Kihara
+      1 	Ruth Elkrief
+      1 	rue Taitbout
+      1 	rue Scribe
+      1 	rue Royale
+      1 	rue Pierre de Serbie
+      1 	rue Pasquier
+      1 	rue Magellan
+      1 	rue Lammenais
+      1 	rue La Boétie
+      1 	rue Houssaye
+      1 	rue du Temple
+      1 	rue du faubourg-saint-honoré
+      1 	rue de Tilsitt
+      1 	rue des Mathurins
+      1 	rue de Rome
+      1 	rue de Réaumur
+      1 	rue de Provence
+      1 	rue de Lille
+      1 	rue de La Boétie
+      1 	rue de la Boetie
+      1 	rue Cambon
+      1 	rue Auber
+      1 	rue Arsène-Houssaye
+      1 	Royaume-Uni
+      1 	route de Bagnols
+      1 	Rousset
+      1 	Rougier
+      1 	Rothau
+      1 	Roquebrune-Cap-Martin
+      1 	Roppenheim
+      1 	Robert Iger
+      1 	Roanne
+      1 	RN 21
+      1 	RN 165
+      1 	RN125
+      1 	RN 113
+      1 	Riom
+      1 	Rika Kihira
+      1 	RIA Novosti
+      1 	Rhin
+      1 	Reyl
+      1 	Revin
+      1 	Reuleuet
+      1 	République de Mordovie
+      1 	République démocratique du Congo
+      1 	Renty
+      1 	René Ngendahimana
+      1 	René Gonnez
+      1 	Renaud Joubert‏
+      1 	Remusat
+      1 	Remoulins
+      1 	Relations avec le Parlement
+      1 	Redon
+      1 	Rebecca Pinheiro-Croisel
+      1 	Réalmont
+      1 	RD 930
+      1 	RD 920
+      1 	Rayon d'or
+      1 	RATP
+      1 	Raphèle-lès-Arles
+      1 	radars-auto.com
+      1 	Quissac
+      1 	Quinté
+      1 	Quévert
+      1 	Qitaihe
+      1 	Qal'at Ja'bar
+      1 	Puyricard
+      1 	Puy-de-Dôme
+      1 	Pujadas
+      1 	PSA
+      1 	Provence-Alpes-Côte-d’Azur
+      1 	Prony
+      1 	Priscilla Ludowski
+      1 	Pringy
+      1 	Presqu'Île de Caen
+      1 	Préfecture de police
+      1 	Prague
+      1 	Postes, des Technologies de l'information, de la Communication et des Médias
+      1 	Portsmouth
+      1 	Portes-lès-Valence
+      1 	Porte Lescot
+      1 	porte Dauphine
+      1 	Porte d'Aspe de Gurmençon
+      1 	Pontivy
+      1 	Pont du Rhône
+      1 	Pont de l’Etoile
+      1 	pont de la Concorde
+      1 	Poitiers
+      1 	Ploubezre
+      1 	Plastic Omnium
+      1 	Plante
+      1 	place Victor-Hugo
+      1 	place Sully
+      1 	place Rochambeau
+      1 	Place Gabriel Péri
+      1 	place de l’Étoile
+      1 	place de la Victoire
+      1 	place de la Nation
+      1 	Place de la mairie
+      1 	place de la Liberté
+      1 	place de la Bourse
+      1 	place Charles-de-Gaulle
+      1 	place Beauvau
+      1 	PKK
+      1 	Pixar
+      1 	Piper Gilles
+      1 	Pipa
+      1 	Pinas
+      1 	Pierre Trevet
+      1 	Pierre Perret
+      1 	Pierre Pellarey
+      1 	Pierre Lescure
+      1 	Pierre Larrouturou
+      1 	Pierre 1er de Serbie
+      1 	Picard
+      1 	Philipp Plein
+      1 	Philippines
+      1 	Philippe Pascot
+      1 	Philippe Martinez
+      1 	Philippe Huppé
+      1 	Philippe Chalmin
+      1 	Philippe Argilier
+      1 	Philippe
+      1 	Phalsbourg
+      1 	Pfastatt
+      1 	Peyehorade
+      1 	Pey Berland
+      1 	Petit-Quevilly
+      1 	Pervez Musharraf
+      1 	Perpignan-Sud
+      1 	Perpignan Sud
+      1 	Perpignan-Montpellier
+      1 	périph’parisien
+      1 	périphérique parisien
+      1 	périphérique
+      1 	Périgueux
+      1 	Père Noël
+      1 	père-Noël
+      1 	Pénélope Fillon
+      1 	Pen-ar-C’hleuz
+      1 	Pékin
+      1 	Pays de la Loire
+      1 	Pays-Bas
+      1 	Paul Poirier
+      1 	Paul Fentz
+      1 	Paul-Émile Victor
+      1 	Pau
+      1 	Patrick Sébastien
+      1 	Patrick Leahy
+      1 	Patrice Gueniffey
+      1 	Passage-d’Agen
+      1 	Passage d'Agen
+      1 	Parti radical de gauche
+      1 	Parti écologiste
+      1 	Parti démocratique
+      1 	Parti de la justice et du développement
+      1 	Part-Dieu
+      1 	Parlement sud-coréen
+      1 	Paris-3
+      1 	Parc industriel de la Plaine de l’Ain
+      1 	parc Bourgines
+      1 	palais des glaces de Canillo
+      1 	palais de l'Elysée
+      1 	Pakistan International Airlines
+      1 	Ouistreham
+      1 	Ottmarsheim
+      1 	Osaka
+      1 	Orsay
+      1 	Orléans
+      1 	Orange sud
+      1 	Orange des Champs-Élysées
+      1 	Orange centre
+      1 	Opinion-way
+      1 	Opération des Nations unies au Burundi
+      1 	Open d'Andorra 2018 seniors
+      1 	Open d’Andorra
+      1 	ONUB
+      1 	Oloron
+      1 	Olivier Dussopt
+      1 	Olivier Besancenot
+      1 	Oiry
+      1 	Octeville-sur-Mer
+      1 	Occitanie
+      1 	Observatoire des métiers de la presse
+      1 	Obama
+      1 	Nouvelle-Aquitaine
+      1 	Notre-Dame-de-Sanilhac
+      1 	Nolan Seegert
+      1 	Nokia
+      1 	Nogent-sur-Marne
+      1 	Noël Fayet
+      1 	Nkurunziza
+      1 	Nive
+      1 	Niort
+      1 	Nimègue
+      1 	Nikita Katsalapov
+      1 	Nicolle Maxime
+      1 	Nicole Schott
+      1 	Nicole Belloubet
+      1 	Nicolas Beytout
+      1 	New York
+      1 	Neuville-les-Dieppe
+      1 	Neudorf
+      1 	Neubourg
+      1 	Netflix
+      1 	Nestor Bankumukunzi
+      1 	Nérac
+      1 	Nemours
+      1 	Nelson
+      1 	NBC
+      1 	Nawaz Sharif
+      1 	Nations Unis
+      1 	National Geographic Partners
+      1 	Nathan Chen
+      1 	Natasha McKay
+      1 	Natalia Kaliszek
+      1 	Narbonne Est
+      1 	Nantes Atlantique
+      1 	Nancy
+      1 	Namihaya Dome
+      1 	N54
+      1 	N5
+      1 	N113
+      1 	Muriel Robin
+      1 	Muriel Pénicaud
+      1 	mouvements des Gilets jaunes
+      1 	mouvement des Gilets
+      1 	Mounir Mahjoubi
+      1 	Moscou
+      1 	Morisi Kvitelashvili
+      1 	Morières-lès-Avignon
+      1 	Montrevel-en-Bresse
+      1 	Montreuil
+      1 	Montpellier
+      1 	Montparnasse
+      1 	Montoir-de-Bretagne
+      1 	Montmagny
+      1 	Montivilliers
+      1 	Montélimar
+      1 	Mont-de-Marsan
+      1 	Montchalin
+      1 	Montceaux-les-mines
+      1 	Montceau-les-Mines
+      1 	Montauban
+      1 	Montain
+      1 	Monoprix
+      1 	Monistrol-sur-Loire
+      1 	Monistrol-sur-Loir
+      1 	Mongolie-Intérieure
+      1 	Monde
+      1 	Monbalen
+      1 	Moirax
+      1 	MoDem
+      1 	Miu Suzaki
+      1 	Mission de l'Union africaine en Somalie
+      1 	Misato Komatsubara
+      1 	ministère du Transport
+      1 	ministère de l’intérieur
+      1 	ministère de l’Éducation nationale
+      1 	ministère de la Justice
+      1 	Minerva Fabienne Hase
+      1 	Midi
+      1 	Michel Boujenah
+      1 	Michel Aupetit
+      1 	Michaël Youn
+      1 	Meureudu
+      1 	Mescoden
+      1 	mercredi 5 décembre
+      1 	mercredi 23 décembre 2016
+      1 	mercredi 21 décembre
+      1 	mercredi 19 décembre 2018
+      1 	mercredi 19
+      1 	Mercedes
+      1 	Mende
+      1 	Melun
+      1 	Mellac
+      1 	Melih Gökçek
+      1 	Mélenchon
+      1 	Mediapart
+      1 	Mecafor
+      1 	Maxime Nicole
+      1 	Maurice Lévy
+      1 	Matyáš Bělohradský
+      1 	Mathieu Bock-Côté
+      1 	Masayoshi Son
+      1 	Marvel
+      1 	mars 2018
+      1 	Marine LePen
+      1 	Marine Le Pen
+      1 	Marignane
+      1 	Marianne
+      1 	Margon
+      1 	Margencel
+      1 	mardi 6 décembre
+      1 	mardi 4 décembre
+      1 	mardi 4
+      1 	mardi 18 décembre 2018
+      1 	mardi 18 décembre
+      1 	marché de Noël de Strasbourg
+      1 	marché de Noël
+      1 	Marc Fesneau
+      1 	Marcelo Claure
+      1 	Marcel Gottlieb
+      1 	Mar-a-Lago
+      1 	Mantes-la-Jolie
+      1 	Manosque
+      1 	Manjastre
+      1 	Manitoba
+      1 	Manche
+      1 	Malakoff
+      1 	Maksym Spodyriew
+      1 	Maksim Kovtun
+      1 	Maitena Biraben
+      1 	Maison
+      1 	Main Jaune
+      1 	Maine-et-Loire
+      1 	Mai 68
+      1 	mai 2019
+      1 	mai 2017
+      1 	mai 2015
+      1 	Magny
+      1 	Magellan
+      1 	Maé-Bérénice Méité
+      1 	Madison Hubbell
+      1 	Macka
+      1 	Macdonald
+      1 	MAB calibre 7.65
+      1 	Maastricht
+      1 	lycée Jean-Pierre Timbaud
+      1 	Lycamobile
+      1 	lundi 3
+      1 	lundi 28 novembre
+      1 	lundi 24 décembre 2018
+      1 	Lucciana
+      1 	Lucasfilm
+      1 	Louvre
+      1 	Louviers
+      1 	Louise Harel
+      1 	Lot
+      1 	Loriol
+      1 	L'Opinion
+      1 	l'ONU
+      1 	Longeville-lès-St-Avold
+      1 	Londres
+      1 	Loire
+      1 	Locatoumat
+      1 	Liupanshui
+      1 	Lincoln
+      1 	Limay
+      1 	Lilah Fear
+      1 	Ligue contre la violence routière
+      1 	Libération
+      1 	Lezoux
+      1 	Lézignan
+      1 	Le Zèbre
+      1 	Lewis Gibson
+      1 	Le Vigan
+      1 	Les Zoulous
+      1 	Les stylos rouges en colère
+      1 	Les Sables-d'Olonne
+      1 	Lesgyrosbleus
+      1 	L’Escapade
+      1 	Les Angles
+      1 	Le Progrès
+      1 	Le Point
+      1 	Léopold Sédar Senghor
+      1 	Le Mans
+      1 	Le grand rendez-vous
+      1 	le Figaro
+      1 	Le Dessous des cartes
+      1 	Le Dauphiné
+      1 	le Canard Enchaîné
+      1 	Le Bon Coin
+      1 	Le Bastion Social
+      1 	LCL
+      1 	La Vie
+      1 	La Valette
+      1 	Lausanne
+      1 	Laurent Fabius
+      1 	Laurent Berger
+      1 	Lauren Nunez
+      1 	La Seyne-sur-Mer
+      1 	la seule chose envisageable
+      1 	La Rochelle
+      1 	Larochefoucault
+      1 	La Poste
+      1 	Lanjouan
+      1 	Langon
+      1 	la Motte
+      1 	La Mède
+      1 	Lamballe
+      1 	Lahore
+      1 	La Haye
+      1 	La Guillotière
+      1 	Lafayette
+      1 	Lafarge-Holcim ciment
+      1 	Laëtitia Oewalle
+      1 	Laétitia Dewalle
+      1 	L’ Action française
+      1 	LaCroix
+      1 	La Chapelle Saint-Luc
+      1 	La Capelette
+      1 	La Belle Idée
+      1 	La Bajon
+      1 	Kurdistan
+      1 	Konya
+      1 	Kiev
+      1 	Khyber Pakhtunkhwa
+      1 	Kheops Lara
+      1 	KFC
+      1 	Kévin Aymoz
+      1 	Kervignac
+      1 	Kefraya
+      1 	Karl Olive
+      1 	Karim Hacène
+      1 	Kaori Sakamoto
+      1 	Julio María Sanguinetti
+      1 	Julien Terrier
+      1 	Julien Coupat
+      1 	juillet 2016
+      1 	Journal du Dimanche
+      1 	Joseph Nurchi
+      1 	Jeumont
+      1 	jeudi 8 décembre
+      1 	jeudi 22 décembre
+      1 	jeudi 20 décembre
+      1 	jeudi 15 décembre 2016
+      1 	jeudi 15 décembre
+      1 	jeudi 14 décembre
+      1 	Jérémy Clément
+      1 	Jean Veil
+      1 	Jean Rostand
+      1 	Jean-Pierre Timbaud
+      1 	Jean-Pierre Mignard
+      1 	Jean-Pierre Denis
+      1 	Jean-Philippe Hubsch
+      1 	Jean Petaux
+      1 	Jean-Michel Thénard
+      1 	Jean-Michel Bezat
+      1 	Jean-Michel Aphatie
+      1 	Jean-Marc Janaillac
+      1 	Jean-François Colosimo
+      1 	Jean-Claude Resnier
+      1 	Jean-Claude de Privas
+      1 	Jason Brown
+      1 	Jasmine Tessari
+      1 	jardin des Tuileries
+      1 	Jardiland
+      1 	janvier 2015
+      1 	James Syring
+      1 	Jacques
+      1 	Jacqueline Moreau
+      1 	Jacqueline Dubois
+      1 	IXe arr
+      1 	Ivett Tóth
+      1 	Ivan Shmuratko
+      1 	iTV
+      1 	ISU Challenger Series
+      1 	Ismaël Karroum
+      1 	Islamabad
+      1 	Isère
+      1 	Irlande
+      1 	Iran
+      1 	Irak
+      1 	International Skating Union
+      1 	Intermarché de Monistrol-sur-Loir
+      1 	Inspection générale de la police nationale
+      1 	Ingrid Levavasseur
+      1 	Indre
+      1 	indigènes de la République
+      1 	Imbonerakure
+      1 	Ille-et-Vilaine
+      1 	île d'Ouessant
+      1 	Île de France
+      1 	IGPN
+      1 	Igor Eremenko
+      1 	Iena
+      1 	IceSheffield
+      1 	Hyper U
+      1 	HSBC
+      1 	Houdeng
+      1 	hôpital Henri-Mondor
+      1 	Honfleur
+      1 	Hollywood
+      1 	Hollande
+      1 	Hirson
+      1 	hippodrome
+      1 	Hexagone
+      1 	Hervé Le Bras
+      1 	Hervé Giacomoni
+      1 	Henri-Mondor
+      1 	Henri de Castries
+      1 	Hélène Rougier
+      1 	Heilongjiang
+      1 	Héctor Alonso Serrano
+      1 	Hayk Shahinyan
+      1 	Havre
+      1 	Haveluy
+      1 	Havelian
+      1 	Hauts-de-Seine
+      1 	Hauts-de-France
+      1 	Haute-Saône
+      1 	Haute-Marne
+      1 	Haute-Corse
+      1 	Haute autorité de la primaire
+      1 	Hausmann
+      1 	Harris Interactive
+      1 	Hama
+      1 	Gyros bleus
+      1 	Gurmençon
+      1 	Guingamp
+      1 	Guillaume Lavoie
+      1 	Guillaume Durand
+      1 	Guillaume Cizeron
+      1 	Guillaume Chiche
+      1 	Guilherand-Granges
+      1 	Guéret
+      1 	Gué d'Hossus
+      1 	Groupe Centre France
+      1 	Grive
+      1 	Grenelle
+      1 	Gregorio Álvarez
+      1 	Grans
+      1 	Grandvillars
+      1 	Grands-Boulevards
+      1 	Grand-rue
+      1 	Grand Rex
+      1 	Grand-Puits
+      1 	Grand Prix senior
+      1 	Grand Prix junior
+      1 	Grand Prix ISU Junior 2018
+      1 	Grand Prix ISU Junior
+      1 	Grand Prix ISU 2018
+      1 	Grand Orient
+      1 	Grande plage
+      1 	Grande Bretagne
+      1 	Graham Newberry
+      1 	Goyet
+      1 	Go Sport
+      1 	google
+      1 	Gonfreville-L'Rocher
+      1 	Gonesse
+      1 	Golden Spin 2018 seniors
+      1 	Golden Spin 2018
+      1 	glorieuses de Bresse
+      1 	Girac
+      1 	Gilets jaunes de Châlons
+      1 	GIGN
+      1 	Gibertine
+      1 	Ghjuvan-Andria Culioli
+      1 	Gépy
+      1 	Georgios Kyriacos Panayiotou
+      1 	Géorgie
+      1 	Georges Pompidou
+      1 	George Lucas
+      1 	Génelard
+      1 	Gauche
+      1 	gare Saint-Charles
+      1 	gare de Saint-Lazare
+      1 	gare de Meaux
+      1 	gare de l’Est
+      1 	Gap
+      1 	Gambsheim
+      1 	Gallargues
+      1 	Gaillon
+      1 	Gaël Quirante
+      1 	Gabriel Péri
+      1 	Gabriella Papadakis
+      1 	G20
+      1 	FX Productions
+      1 	FSU
+      1 	FS2
+      1 	FS1
+      1 	Front social
+      1 	Front Fatah al-Cham
+      1 	Front démocrate
+      1 	Friedland
+      1 	Frédéric Sirgant
+      1 	Frédéric Lordon
+      1 	Franklin D.Roosevelt
+      1 	François Ruffin
+      1 	Francois Ruffin
+      1 	François Reyl
+      1 	François Limoges
+      1 	François Gapihan
+      1 	Franck Dubosc
+      1 	Francis Palombi
+      1 	Francis Lalanne
+      1 	France TV info
+      1 	Francesco Fioretti
+      1 	Franceinfo
+      1 	France info
+      1 	franceinfo
+      1 	France3TVweekend
+      1 	France3
+      1 	France 3
+      1 	france3
+      1 	France 2
+      1 	Fox Sports Regional Networks
+      1 	Fox Searchlight Pictures
+      1 	Fox News
+      1 	Fox Networks Group International
+      1 	Fox Business
+      1 	Fournès
+      1 	Fouqueville
+      1 	Fouquets
+      1 	Fouquet's
+      1 	Foua
+      1 	FO-Transports et Logistique
+      1 	forum des Halles
+      1 	Fontenay-sous-Bois
+      1 	Fontainebleau
+      1 	Foix
+      1 	FO des Transports
+      1 	FO
+      1 	Fnsea
+      1 	Fnac Darty
+      1 	Fnac
+      1 	FN
+      1 	Fluctuat Nec Mergitur
+      1 	Florian Philippot
+      1 	Fleury-en-Bière
+      1 	Figeac
+      1 	Figaro
+      1 	février 2017
+      1 	février 2014
+      1 	fédération tbritannique de patinage
+      1 	Fédération Nationale des Syndicats d’Exploitants Agricoles
+      1 	Fédération japonaise de patinage à glace
+      1 	fédération hongroise de patinage
+      1 	Fédération Française des Sports de glace
+      1 	Fédération du commerce et de la distribution
+      1 	fédération de Russie
+      1 	fédération croate de patinage artistique
+      1 	Fédération andorrane des sports de glace
+      1 	Faucons de la liberté du Kurdistan
+      1 	faubourg Saint-Honoré
+      1 	Fabrice Schlegel
+      1 	Fabien Jobard
+      1 	Eyguières-Miramas
+      1 	Évry
+      1 	Evron
+      1 	Evgenia Tarasova
+      1 	Eurotunnel
+      1 	Europe
+      1 	Eure-et-Loire
+      1 	Étienne Chouard
+      1 	Etienne Blanc
+      1 	Etat islamique
+      1 	Etat de siege
+      1 	Etat
+      1 	Esther Benbassa
+      1 	Ernstein
+      1 	Éric Coquerel
+      1 	Erdogan
+      1 	Eragny
+      1 	Environnement Canada
+      1 	Enfoirés
+      1 	Endemol Shine Group
+      1 	Emmanuel Grégoire
+      1 	Emmanuel Barbe
+      1 	Elbeuf
+      1 	Ekaterina Kurakova
+      1 	Egor Murashov
+      1 	Egor Bazin
+      1 	EELV
+      1 	Edouard Louis
+      1 	E16
+      1 	Dupont-Aignan
+      1 	Drôme
+      1 	Drauzou
+      1 	DPA
+      1 	Dorlisheim
+      1 	Dordogne
+      1 	Dominique Besnehard
+      1 	Dinan
+      1 	dimanche 4 décembre 2016
+      1 	dimanche 2 décembre
+      1 	dimanche 16 décembre
+      1 	Dijon
+      1 	Dieudonné M'Bala M'Bala
+      1 	Dieppe
+      1 	Didier Guillaume
+      1 	Dickens David
+      1 	de Villiers
+      1 	Deutsche Welle
+      1 	Deutsche Eislauf-Union
+      1 	des Italiens
+      1 	Dentsu Consulting
+      1 	Denis Coderre
+      1 	Denis
+      1 	Deir ez-Zor
+      1 	décembre 2016
+      1 	Déborah de Robertis
+      1 	David Roig
+      1 	David MacNaughton
+      1 	Dave Phillips
+      1 	Darya Popova
+      1 	Dares
+      1 	Danielle Simonnet
+      1 	Damien Molin
+      1 	Damas
+      1 	d’Alep
+      1 	D 905bis
+      1 	D 905
+      1 	D900
+      1 	D70
+      1 	D42d
+      1 	Cyril Hanouna
+      1 	Cynthia Fleury
+      1 	Cuvier
+      1 	CSI
+      1 	CSA
+      1 	Croissant-Rouge
+      1 	Croatie
+      1 	Crimolois
+      1 	Crédit suisse
+      1 	Crédit du Nord
+      1 	Crédit agricole
+      1 	Couvin
+      1 	Coursan
+      1 	Cour constitutionnelle
+      1 	Coulounieix-Chamiers
+      1 	Couillet
+      1 	Côtes d'Armores
+      1 	Côte-d'Or
+      1 	côte des Mazures
+      1 	Corse
+      1 	Corrèze
+      1 	Corée du Sud
+      1 	Cora
+      1 	Copernic
+      1 	Conseil régional d’Île-de-France
+      1 	Conseil italien
+      1 	Conseil de Ville de Montréal
+      1 	Conseil des ministres
+      1 	Conseil d'arrondissement de Ville-Marie
+      1 	Congrès américain
+      1 	Confluence de Lyon
+      1 	Confédération paysanne
+      1 	Confédération des commerçants de France
+      1 	CondorFerries
+      1 	concours des glorieuses de Bresse
+      1 	Concarneau
+      1 	Comptes publics
+      1 	Comité régional conchylicole
+      1 	Côme Dunis
+      1 	Coluche
+      1 	Coignières
+      1 	Cognac
+      1 	CNCC
+      1 	Cnaf
+      1 	Clichy
+      1 	Cleunay
+      1 	Clémentine Autain
+      1 	Claude Askolovitch
+      1 	Civel
+      1 	Citrons
+      1 	Citadelle de Namur
+      1 	Cirque Phénix
+      1 	Ciotat
+      1 	CICR
+      1 	Chu Mi-Ae
+      1 	Christopher Boyadji
+      1 	Christophe Chalançon
+      1 	Christophe Borgel
+      1 	Christophe Barré
+      1 	Christmas Cup 2018 seniors
+      1 	Christmas Cup
+      1 	Christmas
+      1 	Christkindelsmärik
+      1 	Christian Nüchtern
+      1 	Christian-Bourquin
+      1 	Christian
+      1 	chœurs de l'Armée rouge
+      1 	Chitral
+      1 	Chili
+      1 	Chifeng
+      1 	Chevigny
+      1 	Chérif Chekatt
+      1 	Cherbourg-en-Cotentin
+      1 	Cherbourg
+      1 	Chemaudin
+      1 	Che Guevara
+      1 	Châtellerault
+      1 	Châtellera
+      1 	Châtelet les Halles
+      1 	Château-Thierry
+      1 	Châteauroux
+      1 	Châteauneuf-le-Rouge
+      1 	Châteauneuf-de-Randon
+      1 	Charleville
+      1 	Charles Piaget
+      1 	Charles Nodier
+      1 	Charles-de-Gaulle Etoile
+      1 	Charles-de-Gaulle
+      1 	Chapelle-Saint-Luc
+      1 	Chantal Perrotin
+      1 	Chantal Perrichon
+      1 	Chanel
+      1 	Champs-Elysées-Clemenceau
+      1 	Champs-Elysées Clemenceau
+      1 	Champs Élysées
+      1 	Champs-de-Mars
+      1 	championnats du Japon de patinage artistique 2018-2019
+      1 	championnats du Japon 2018-2019
+      1 	Championnats de Russie de patinage artistique 2018-2019
+      1 	championnats de Russie 2018-2019
+      1 	championnats de patinage des Quatre Nations senior
+      1 	championnats de patinage des Quatre Nations
+      1 	Championnats de Grande Bretagne de patinage artistique
+      1 	Championnats de Grande-Bretagne 2018-2019 seniors
+      1 	Championnats d'Allemagne de patinage artistique 2018-2019
+      1 	championnats d'Allemagne 2018-2019
+      1 	chambre de Commerce et d’industrie de Paris Ile-de-France
+      1 	Chamant
+      1 	Cham
+      1 	Chalon-Sud
+      1 	Châlons-en-Champagne
+      1 	Châlons
+      1 	CGT des pompiers
+      1 	CGT cheminots
+      1 	CFTC
+      1 	CFE-CGC
+      1 	Cerf
+      1 	Centre Presse
+      1 	Centre Opérationnel départemental
+      1 	centre des impôts de Riom
+      1 	Cendrillon
+      1 	CBC
+      1 	Cavale Blanche
+      1 	Caumartin
+      1 	Catherine Matausch
+      1 	Catalogne
+      1 	Castets
+      1 	Castelsarrasin
+      1 	Casino
+      1 	carrefour Arts-Loi
+      1 	Carcassonne ouest
+      1 	Capbreton
+      1 	Canillo
+      1 	Canebière
+      1 	Candiac
+      1 	campus Censier
+      1 	Cameroun
+      1 	Calgary
+      1 	Café Cotton
+      1 	Cabestany
+      1 	BVA Opinion
+      1 	Buzz TV
+      1 	Buchelay
+      1 	Bryan Garnier
+      1 	Bruno Retailleau
+      1 	Bruno Masure
+      1 	Bruno Le Roux
+      1 	Bruce Toussaint
+      1 	Brognard
+      1 	BrittanyFerries
+      1 	Brittany Ferries
+      1 	Bretteville-sur-Odon
+      1 	Bradie Tennell
+      1 	BQ
+      1 	BP
+      1 	Bourquin
+      1 	Bourgoin-Jallieu
+      1 	Bourget-du-Lac
+      1 	Bourg-en-Bresse
+      1 	Bourdin
+      1 	Boulou
+      1 	Boulogne-sur-Mer
+      1 	Boulogne
+      1 	boulevard Saint-Martin
+      1 	boulevard Poissonnière
+      1 	boulevard Malesherbes
+      1 	boulevard Hausmann
+      1 	boulevard des Mathurins
+      1 	boulevard des Italiens
+      1 	Boule-d’Or
+      1 	Bouge
+      1 	Bouches
+      1 	Bosphorus Istanbul Cup 2018 seniors
+      1 	Bosphorus Istanbul Cup
+      1 	Bormes-les-Mimosas
+      1 	Bormes
+      1 	Bordeaux-Lac
+      1 	bonnets noirs
+      1 	Boissière
+      1 	Blyes
+      1 	Biriatou
+      1 	Big Ten Network
+      1 	Bigorre
+      1 	Bichât
+      1 	Bichat
+      1 	Biarritz
+      1 	BFMtv
+      1 	Besiktas
+      1 	Bertrand Sorre
+      1 	Bernis
+      1 	Bernard Tapie
+      1 	Bernard-Henri Lévy
+      1 	Bergerac
+      1 	Benoit Potterie
+      1 	Benoît
+      1 	Benjamin Grivaux
+      1 	Benjamin Dubois
+      1 	Benjamin Cauchi
+      1 	Benalla
+      1 	Bemolsheim
+      1 	Beipanjiang
+      1 	Beipan
+      1 	Bégaar
+      1 	Beauvau
+      1 	Beauvais
+      1 	Bataclan
+      1 	Bastien Faudot
+      1 	Bashar al-Assad
+      1 	Baloutchistan
+      1 	avril 2017
+      1 	Avignon-Nord
+      1 	Avignon Nord
+      1 	avenue Pierre 1er de Serbie
+      1 	avenue Kléber
+      1 	avenue Kleber
+      1 	avenue George
+      1 	avenue d’Iena
+      1 	avenue des Ternes
+      1 	Auxerre
+      1 	Auvergne
+      1 	Autoroutes Paris Rhin Rhône
+      1 	Aurélien Taché
+      1 	Audrey & Co du lundi
+      1 	Audrey
+      1 	Aubervilliers
+      1 	Attac
+      1 	ATR-42
+      1 	Association nationale des Industries Alimentaires
+      1 	Assemblé National
+      1 	Assemblé
+      1 	Assad
+      1 	ASL
+      1 	Ashfaq Kayani
+      1 	Artiom Darenskiy
+      1 	Arnaud Péricard
+      1 	Arnaud Benedetti
+      1 	Armor
+      1 	armée turque
+      1 	Armée syrienne libre
+      1 	Armée rouge
+      1 	Argœuves
+      1 	Ardennes
+      1 	Aquitaine
+      1 	Aquaris X5 Plus
+      1 	APRR
+      1 	Antonio Guterres
+      1 	Anne-Sophie Bajon
+      1 	Anne Hidalgo
+      1 	Annecy
+      1 	Anna Yanovskaya
+      1 	Anna Chtcherbakova
+      1 	Ania
+      1 	Angles
+      1 	Angela Merkel
+      1 	Andreï Karlov
+      1 	Andorre
+      1 	Ancenis
+      1 	Anatole France
+      1 	Anastasiia Arkhipova
+      1 	Anastasia Michina
+      1 	Amnesty International
+      1 	AMISOM
+      1 	Amiens
+      1 	Amélie Rosique
+      1 	Amélie de Montchalin
+      1 	Al-Qaida
+      1 	Alpes-Maritimes
+      1 	Alpes-de-Haute-Provence
+      1 	All Japan
+      1 	Alliance rebelle
+      1 	Alliance Écologiste Indépendante
+      1 	Alisson Krystle Perticheto
+      1 	Alisa Efimova
+      1 	Aliona Kostornaïa
+      1 	Algérie
+      1 	Alexis Corbière
+      1 	Alexandre Jardin
+      1 	Alexander Korovin
+      1 	Aleksandr Galliamov
+      1 	Albi
+      1 	Alberta
+      1 	Albert
+      1 	Alain Juppé
+      1 	Alain Bouchet
+      1 	Alain Bouché
+      1 	Airbus
+      1 	Aine
+      1 	Aida Touihri
+      1 	Agriculture
+      1 	Agnès Pannier-Runacher
+      1 	Agence Française de Développement
+      1 	Agde
+      1 	AFP
+      1 	aéroport Nantes Atlantique
+      1 	aéroport de Nice
+      1 	Ádám Lukács
+      1 	Aceh
+      1 	Académie française
+      1 	Académie des beaux-arts de Paris
+      1 	ABC
+      1 	A85
+      1 	A48
+      1 	A42
+      1 	A41
+      1 	A40
+      1 	A 39
+      1 	A36
+      1 	A304
+      1 	9 heures
+      1 	9h55
+      1 	9h49
+      1 	9h45
+      1 	9h35
+      1 	9h25
+      1 	9 h 25
+      1 	9h24
+      1 	9h20
+      1 	9h10
+      1 	9h05
+      1 	9 h 00
+      1 	9e arrondissements
+      1 	9 décembre
+      1 	99 rue Lécuyer
+      1 	8h55
+      1 	8h47
+      1 	8h43
+      1 	8h25
+      1 	8h10
+      1 	7h55
+      1 	7h540
+      1 	7h50
+      1 	7h37
+      1 	7h35
+      1 	7h25
+      1 	7h
+      1 	7 décembre 2018
+      1 	6 novembre 2016
+      1 	6h du matin
+      1 	6h55
+      1 	6h30 UTC+3
+      1 	6h30
+      1 	6h20
+      1 	6h15
+      1 	6h10
+      1 	6 décembre 2018
+      1 	6 décembre 2016
+      1 	6 décembre
+      1 	5 novembre 2017
+      1 	5 juin 2019
+      1 	5 Janvier 2019
+      1 	5 janvier
+      1 	5 h 45 UTC
+      1 	5h45
+      1 	5h20
+      1 	5h00
+      1 	5 décembre 2018
+      1 	5 décembre
+      1 	5
+      1 	4h du matin
+      1 	4hAM UTC+1
+      1 	4h40
+      1 	4 décembre 2018
+      1 	3 heures du matin
+      1 	3 h 40
+      1 	3h30
+      1 	3h15 du matin
+      1 	3h00 du matin
+      1 	3h00 du
+      1 	3 décembre
+      1 	35 magnum
+      1 	32 e anniversaire de la télévision nationale
+      1 	31 décembre 2018
+      1 	30 novembre 2018
+      1 	30 décembre 2018
+      1 	30 décembre
+      1 	2 heures du matin
+      1 	2h15 mardi matin
+      1 	2h00 du matin
+      1 	2e
+      1 	2 avril 2014
+      1 	28 novembre
+      1 	28 janvier 2019
+      1 	28 décembre 2018
+      1 	28 décembre 2016
+      1 	27 décembre 2018
+      1 	27 décembre 2016
+      1 	26 décembre 2018
+      1 	24 novembre
+      1 	24h Pujadas
+      1 	24 décembre
+      1 	24
+      1 	23 heures
+      1 	23h56
+      1 	23h45
+      1 	23 h 03 UTC
+      1 	23h0
+      1 	23 décembre 2016
+      1 	22 heures
+      1 	22h45
+      1 	22h26
+      1 	22h15
+      1 	22h12
+      1 	22h10
+      1 	22h
+      1 	22 décembre
+      1 	22
+      1 	21h45
+      1 	21 h 30
+      1 	21h25
+      1 	20th Century Fox Television
+      1 	20 janvier prochain
+      1 	20h55
+      1 	20h50
+      1 	20h43
+      1 	20h40
+      1 	20h25
+      1 	20h15
+      1 	20h
+      1 	2030
+      1 	2022
+      1 	2020
+      1 	20
+      1 	1h30 du matin
+      1 	1 er janvier 2016
+      1 	1 er décembre 2018
+      1 	1er décembre 2016
+      1 	1 er avril
+      1 	19h50
+      1 	19h45
+      1 	19h35
+      1 	19 h 30 UTC
+      1 	19 h 30
+      1 	19h25
+      1 	19h05
+      1 	19 décembre 2018
+      1 	19 décembre 2017
+      1 	1999
+      1 	1997
+      1 	1995
+      1 	1987
+      1 	1983
+      1 	1981
+      1 	1979
+      1 	1973
+      1 	1970
+      1 	1958
+      1 	1950
+      1 	1934
+      1 	18h48
+      1 	18h35
+      1 	18h25
+      1 	18h19
+      1 	18h18
+      1 	18h15
+      1 	18h05
+      1 	18 décembre 2018
+      1 	18 décembre 2016
+      1 	18 décembre
+      1 	1862
+      1 	18
+      1 	17 novembre 2018
+      1 	17h55
+      1 	17h45
+      1 	17h40
+      1 	17 h 30
+      1 	17h21
+      1 	17 décembre 2018
+      1 	17
+      1 	16 heures
+      1 	16h46
+      1 	16h18
+      1 	16h09
+      1 	16h
+      1 	16 décembre 2018
+      1 	16 décembre 2016
+      1 	16 décembre
+      1 	15h55
+      1 	15h48
+      1 	15h39
+      1 	15h35
+      1 	15h32
+      1 	15h02
+      1 	15 décembre 2016
+      1 	14 septembre 2016
+      1 	14h48
+      1 	14h25
+      1 	14h08
+      1 	14h07
+      1 	14h03
+      1 	14h
+      1 	14 décembre 2018
+      1 	14 décembre 2017
+      1 	14 décembre
+      1 	13h55
+      1 	13h45
+      1 	13h25
+      1 	13h08
+      1 	13 décembre dernier
+      1 	13
+      1 	12h53
+      1 	12h52
+      1 	12h50
+      1 	12h06
+      1 	12 février 1985
+      1 	12 décembre 2018
+      1 	12 décembre 2017
+      1 	12 décembre 2016
+      1 	11h57
+      1 	11h50
+      1 	11h35
+      1 	11h24
+      1 	11h21
+      1 	11h19
+      1 	11h10
+      1 	11h05
+      1 	11 décembre dernier
+      1 	11 décembre 2018
+      1 	11 décembre 2016
+      1 	10h59
+      1 	10h54
+      1 	10h32
+      1 	10h27
+      1 	10h07
+      1 	10 décembre 2018
+      1 	10 décembre 2016
+      1 	09h00
+      1 	06 décembre
+      1 	05h30
