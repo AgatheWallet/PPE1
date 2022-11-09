@@ -1,0 +1,124 @@
+     33 France
+     16 États-Unis
+     15 Paris
+     10 al-Bab
+      9 Rio
+      8 Syrie
+      6 Jupiter
+      5 Cozumel
+      5 Chine
+      4 Turquie
+      4 Terre
+      4 Mexique
+      4 Mars
+      4 Canada
+      4 Brésil
+      3 Rome
+      3 place de la République
+      3 Nice
+      3 Marseille
+      3 Gabon
+      3 Europe
+      3 Edmonton
+      3 Deir ez-Zor
+      3 Aubervilliers
+      3 Ankara
+      2 Washington
+      2 Vincennes
+      2 Vendée
+      2 Toulouse
+      2 Sarran
+      2 Saran
+      2 Saint-Raphaël
+      2 Russie
+      2 Royaume-Uni
+      2 Rouen
+      2 Rotterdam
+      2 place de la Bastille
+      2 Pékin
+      2 Pays-Bas
+      2 Ouzbékistan
+      2 Montpellier
+      2 Londres
+      2 Libreville
+      2 Île-de-France
+      2 Guadeloupe
+      2 Groenland
+      2 Gironde
+      2 frontière turquo-syrienne
+      2 Euphrate
+      2 Dunkerque
+      2 Deauville
+      2 Bouches-du-Rhône
+      2 Bordeaux
+      2 Australie
+      2 Afrin
+      1 Yokohama
+      1 Varois
+      1 Val-de-Seine
+      1 Val-de-Marne
+      1 UAE
+      1 Thourda
+      1 Téhéran
+      1 Suède
+      1 Stockholm
+      1 Sotchi
+      1 Seine-Maritime
+      1 Samarcande
+      1 Rennes
+      1 Raqqa
+      1 Québec
+      1 quartier de Belleville
+      1 Qatar
+      1 Provence-Alpes-Côte d'Azur
+      1 Pontal
+      1 Plouër-sur-Rance
+      1 Pays-d'Aix
+      1 Oklahoma
+      1 Normandie
+      1 Nîmes
+      1 Nantes
+      1 Munich
+      1 Moscou
+      1 Mooloolaba
+      1 Montréal
+      1 Montreal
+      1 Mauna Loa
+      1 Manbij
+      1 Loiret
+      1 Leeds
+      1 La Courneuve
+      1 Kourou
+      1 Jarablus
+      1 Japon
+      1 Irak
+      1 Hawaii
+      1 Hawaï
+      1 Hambourg
+      1 Guyane
+      1 Gujan-Mestras
+      1 Grand-Quevilly
+      1 Gold Coast
+      1 Etats-Unis
+      1 Espagne
+      1 Dol-de-Bretagne
+      1 Dijon
+      1 départementale 31
+      1 Damas
+      1 Créteil
+      1 Côtes-d'Armor
+      1 Côte-d'Or
+      1 Corse
+      1 Chambéry
+      1 Cezais
+      1 Cesson
+      1 Centre-Val de Loire
+      1 Bretagne
+      1 Bonneuil-sur-Marne
+      1 Belgique
+      1 Bagdad
+      1 Athènes
+      1 Arcachon
+      1 Angleterre
+      1 Allemagne
+      1 Abu Dhabi
