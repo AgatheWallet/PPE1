@@ -1,5 +1,7 @@
 # Journal de bord du projet encadré
 
+
+---
 ## 28/09/2022
 
 Création du repository sur GitHub et des fichiers Readme.md et journal-de-bord.md
@@ -14,7 +16,7 @@ Autre.s commande.s :
 - `git push` : ajouter modif faites sur ordi dans le repository en ligne  
 
 
-
+---
 ## 05/10/2022
 
 Exercices sur Shell : 
@@ -40,7 +42,7 @@ Exercices sur Shell :
 - `sort file.txt | uniq -ic | sort -nr` : trie le fichier pour qu'il soit dans l'ordre alphabétique, retire les doublons et compte le nombre d'occurences, en ignorant la casse et trie à nouveau le fichier par la fréquence, du plus grand au plus petit
 
 
-
+---
 ## 25/10/2022
 - Création de scripts pour compter les annotations de lieux (compte_loc.sh), classer les lieux (classement_lieux.sh) et compter le nombre de tel type d'annotations pour telle année (compte.sh).
 
@@ -67,6 +69,7 @@ fi
 ```
 
 
+---
 ## 09/11/2022
 
 Création de pages github
@@ -74,16 +77,18 @@ Création index.html avec ajout d'un lien
 Création tableau.html avec différents titres et liens et création d'une liste
 
 ### Les commandes utilisées : 
-<p>texte<p> → création paragraphe
+```html
+<p>texte<p> : création paragraphe
 <ul>  
 	<li>élément 1</li>  
 	<li>élément 2</li>  
 </ul> → création liste
-<a href=lien>Texte</a> → création lien
-<h1>Titre1</h1> → création gros titre (jusqu'à h6)
+<a href=lien>Texte</a> : création lien
+<h1>Titre1</h1> : création gros titre (jusqu'à h6)
+```
 
 
-
+---
 ## 15/11/2022
 Mise à jour du journal de bord
 
