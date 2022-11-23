@@ -46,9 +46,10 @@ Exercices sur Shell :
 ## 25/10/2022
 - Création de scripts pour compter les annotations de lieux (compte_loc.sh), classer les lieux (classement_lieux.sh) et compter le nombre de tel type d'annotations pour telle année (compte.sh).
 
+
 ### Les commandes utilisées : 
 - `#!/usr/bin/bash` : appelle bash
-- `ANNEE=$1` : permet de renommer l'argument 1 ANNEE (plus explicit dans le programme)
+- `ANNEE=$1` : permet de renommer l'argument 1 ANNEE (plus explicite dans le programme)
 - $ANNEE : appel de la variable ANNEE, correspondant à l'argument 1
 ```bash
 for condition
@@ -82,7 +83,7 @@ Création tableau.html avec différents titres et liens et création d'une liste
 <ul>  
 	<li>élément 1</li>  
 	<li>élément 2</li>  
-</ul> → création liste
+</ul> : création liste
 <a href=lien>Texte</a> : création lien
 <h1>Titre1</h1> : création gros titre (jusqu'à h6)
 ```
@@ -91,4 +92,6 @@ Création tableau.html avec différents titres et liens et création d'une liste
 ---
 ## 15/11/2022
 Mise à jour du journal de bord
+
+
 
