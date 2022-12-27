@@ -4,8 +4,8 @@
 ---
 ## 28/09/2022
 
-Création du repository sur GitHub et des fichiers Readme.md et journal-de-bord.md
-Attendre un petit peu après commit avant de faire status, sinon ne détecte pas les modifications
+1. Création du repository sur GitHub et des fichiers Readme.md et journal-de-bord.md
+2. Attendre un petit peu après commit avant de faire status, sinon ne détecte pas les modifications
 
 ### Les commandes utilisées :  
 - `git clone` : clone le repository sur la machine  
@@ -44,7 +44,7 @@ Exercices sur Shell :
 
 ---
 ## 25/10/2022
-- Création de scripts pour compter les annotations de lieux (compte_loc.sh), classer les lieux (classement_lieux.sh) et compter le nombre de tel type d'annotations pour telle année (compte.sh).
+1. Création de scripts pour compter les annotations de lieux (compte_loc.sh), classer les lieux (classement_lieux.sh) et compter le nombre de tel type d'annotations pour telle année (compte.sh).
 
 
 ### Les commandes utilisées : 
@@ -73,9 +73,9 @@ fi
 ---
 ## 09/11/2022
 
-Création de pages github
-Création index.html avec ajout d'un lien
-Création tableau.html avec différents titres et liens et création d'une liste
+1. Création de pages github
+2. Création index.html avec ajout d'un lien
+3. Création tableau.html avec différents titres et liens et création d'une liste
 
 ### Les commandes utilisées : 
 ```html
@@ -94,4 +94,14 @@ Création tableau.html avec différents titres et liens et création d'une liste
 Mise à jour du journal de bord
 
 
+---
+## 14/12/2022
+1. Installation de wordcloud : `conda install -c conda-forge wordcloud`
+2. Utilisation de la commande : `wordcloud-cli --text ./dump-fr.txt --imagefile ./image.png --scale 2 --stopwords motsvides.txt`
+- `--text` permet d'indiquer le fichier texte à partir duquel il faut faire le nuage de mots
+- `--imagefile` permet d'indiquer le fichier image de sortie
+- `--scale n` permet d'agrandir l'image n fois
+- `--stopwords` permet d'ajouter un fichier contenant des stopwords à ne pas prendre en compte dans notre nuage de mots
 
+
+J'écris n'importe quoi pour faire une erreur. 
