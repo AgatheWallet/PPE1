@@ -21,3 +21,5 @@ git log
 git reset 7f700438915e70241e9cb3aeb648fde4b8749349
 ```
 Je n'ai pas l'impression d'avoir réussi à annuler le commit en question. En effet, lorsque je fais un git status, on m'informe que je suis "en retard" d'un commit par rapport à origin/main, ce qui doit correspondre au reset. Je me suis dit qu'il fallait peut-être que je push le reset mais j'ai alors une erreur comme quoi il faut que je pull d'abord. Pour pouvoir puller, il faut que je reset mon journal de bord ce qui n'amène aucun changement in fine. J'ai alors essayé avec revert et le numéro du commit mais au lieu de me retirer le commit erreur, cela m'a retiré, j'ai l'impression, le commit correct que j'ai effectué après puisque ma section à la date d'aujourd'hui était supprimée du journal de bord.
+
+Je réécris plein de choses inutiles en espérant que mon reset/revert fonctionne cette fois...
