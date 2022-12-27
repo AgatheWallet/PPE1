@@ -105,3 +105,14 @@ Mise à jour du journal de bord
 
 
 J'écris n'importe quoi pour faire une erreur. 
+
+
+---
+## 27/12/2022
+1. Création d'un tag sur le commit 5a2874eae27726ab9e01ca2d83312ff78c5d8537 (en date du 28092022)
+```bash
+git tag -a -m "version finie séance 2" 20220928 5a2874eae27726ab9e01ca2d83312ff78c5d8537
+git push origin 20220928
+```
+2. Création d'une erreur
+
