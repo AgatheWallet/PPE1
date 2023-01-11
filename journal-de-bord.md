@@ -112,7 +112,8 @@ L'option -I permet de n'afficher que l'entête et l'option -L permet de suivre l
 
 2. Le code de réponse se trouve dans la première ligne de l'entête. Pour le récupérer, nous pouvons utiliser `grep` ou `egrep`, l'option `-o` permettant de ne récupérer que ce qu'on cherche et pas la ligne entière et des expressions régulières (en utilisant l'option `-E`: la ligne contenant le code réponse commence par `HTTP/`. Nous devons donc commencer par chercher cet élément. Nous pouvons ensuite récupérer le code avec l'option `-o`, indiquant que nous cherchons un élément composé de 3 chiffres sur la ligne commençant par `HTTP` (par exemple, `200` indique que l'URL a été trouvée correctement). En cas de redirection, il ne faut récupérer que le dernier code. Nous pouvons donc ajouter que nous voulons la dernière occurence de ce motif en utilisant `tail` avec l'option `-n` grâce à laquelle nous pouvons indiquer le nombre de ligne à partir de la fin que nous voulons récupérer (ici une seule). 
 
-3. ```bash
+3. 
+```bash
 code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
 ```
 
